@@ -1,7 +1,7 @@
 ---
 title: 'Observing Pre-Service Teachers in EDCI 409'
-date: 2024-02-07
-permalink: /posts/2024/02/observing-pre-service-teachers/
+date: 2024-01-03
+permalink: /posts/2024/01/observing-pre-service-teachers/
 tags:
   - Teaching Experience
   - Education
