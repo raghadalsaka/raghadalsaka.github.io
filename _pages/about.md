@@ -24,12 +24,5 @@ I also serve as a **Graduate Teaching Assistant** at the **University of Idaho**
 
 - **Bachelor’s in English Language & Literature** – *Al-Balqa Applied University (2015-2019)*  
 
-## Contact Information
-
-- **Email:** [ralsaka@uidaho.edu](mailto:ralsaka@uidaho.edu)  
-- **LinkedIn:** [Raghad Alsaka](https://www.linkedin.com/in/raghadalsaqqa)  
-- **Google Scholar (Placeholder):** [Google Scholar](https://scholar.google.com/)  
-- **ResearchGate (Placeholder):** [ResearchGate](https://www.researchgate.net/)  
-
 ---
 This page will be updated as new achievements and research contributions are made.
