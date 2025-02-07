@@ -1,8 +1,11 @@
 ---
-title: "New Beginnings: Doctorate and Teaching Assistant Role"
-date: 2025-02-07
-author: Ahmad
-tags: [Education, Teaching, University of Idaho]
+title: 'New Beginnings: Doctorate and Teaching Assistant Role'
+date: 2023-08-18
+permalink: /posts/2023/08/new-beginnings/
+tags:
+  - Teaching Experience
+  - University of Idaho
+  - Education
 ---
 
 I'm thrilled to share two exciting updates on my journey:
