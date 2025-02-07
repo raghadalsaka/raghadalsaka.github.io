@@ -6,6 +6,7 @@ permalink: /teaching/2023-fall-edci321
 venue: "University of Idaho, Department of Curriculum and Instruction"
 date: 2023-08-20
 location: "Moscow, Idaho, USA"
+status: "Ongoing"
 ---
 
 ## Course Overview  
@@ -20,5 +21,8 @@ This course explores **children’s literature** through a critical lens, helpin
 - Bridging **theory and real-world applications**.  
 - Developing **lesson plans** based on children’s literature.  
 - Practicing **critical thinking and classroom interaction**.
+
+## Course Status  
+📌 **Currently Ongoing**
 
 ---
