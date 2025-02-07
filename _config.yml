@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Education - Educational Technology, University of Idaho"
   location         : "University of Idaho, Moscow Campus"
-  employer         : "Red Brick University"
+  employer         : "University of Idaho"
   uri              : "https://www.uidaho.edu"
   email            : "ralsaka@uidaho.edu" 
 
@@ -39,7 +39,7 @@ author:
   github           : "raghadalsaka"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/raghadalsaka"
+  linkedin         : "raghadalsaka"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -109,7 +109,7 @@ social:
   type                   : "Person"
   name                   : "Raghad Alsaka"
   links:
-    - "https://www.linkedin.com/in/raghadalsaqqa"
+    - "https://www.linkedin.com/in/raghadalsaka"
     - "https://scholar.google.com/"
     - "https://www.researchgate.net/"
     - "https://github.com/raghadalsaka"
