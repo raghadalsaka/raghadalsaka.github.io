@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About"
+title                    : "Raghad Alsaka"
 title_separator          : "-"
 name                     : &name "Raghad Alsaka"
 description              : &description "Ph.D. in Education - Educational Technology"
