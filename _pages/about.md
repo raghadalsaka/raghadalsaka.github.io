@@ -1,26 +1,35 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently pursuing a **Ph.D. in Education** with an emphasis on **Educational Technology** at the **University of Idaho, Moscow Campus**. My research focuses on expanding expertise in **curriculum development, instructional strategies, and educational research**.
+Dr. Raghad Alsaka is a researcher and educator specializing in generative artificial intelligence in education, teacher preparation, and educational technology. She completed her Ph.D. in Education, Curriculum and Instruction with an emphasis on Educational Technology at the University of Idaho in May 2026. Her doctoral dissertation examined how master's and doctoral students experience and engage with generative AI tools in their academic work, using qualitative phenomenological methods.
 
-I also serve as a **Graduate Teaching Assistant** at the **University of Idaho**, where I support students in educational theory, curriculum planning, and instructional methods. My passion lies in integrating technology into education to enhance learning experiences.
+She has served as a Graduate Teaching Assistant and Instructor at the University of Idaho since August 2023, teaching courses in curriculum and instruction, children's literature, and contexts of education for undergraduate and graduate preservice teachers.
+
+## Research Interests
+
+- Generative artificial intelligence in education
+- Educational technology and instructional design
+- Curriculum and instruction
+- Teacher education and preservice teacher preparation
+- AI literacy, prompting practices, and ethical AI use in education
+- Multilingual learners and English language education
+- Qualitative research methods, phenomenology, and thematic analysis
 
 ## Education
 
-- **Ph.D. in Education (Educational Technology emphasis)** – *University of Idaho, Moscow Campus (Ongoing)*  
-  - Department of **Curriculum and Instruction**  
-  - Engaged in **educational research** focusing on innovative teaching strategies  
+**Ph.D. in Education, Curriculum and Instruction**  
+University of Idaho, Moscow, Idaho — Completed May 2026  
+Emphasis: Educational Technology  
+Dissertation: *Generative AI in Graduate Education: Master's and Doctoral Students' Experiences and Academic Practices*
 
-- **MA in Education (Educating Multilingual Learners)** – *Arizona State University (2020-2021)*  
-  - Specialized in **curriculum design for multilingual learners**  
+**M.A. in Education, Educating Multilingual Learners**  
+Arizona State University, Tempe, Arizona — Completed 2021
 
-- **Bachelor’s in English Language & Literature** – *Al-Balqa Applied University (2015-2019)*  
-
----
-This page will be updated as new achievements and research contributions are made.
+**B.A. in English Language and Literature**  
+Al-Balqa Applied University, Jordan — Completed 2019
