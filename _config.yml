@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Raghad Alsaka"
 title_separator          : "-"
 name                     : &name "Raghad Alsaka"
-description              : &description "Ph.D. in Education - Educational Technology"
+description              : &description "Ph.D. in Education — Curriculum and Instruction | Educational Technology"
 url                      : "https://raghadalsaka.com"
 baseurl                  : ""
 repository               : "raghadalsaka/raghadalsaka.github.io"
@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "Raghad Alsaka"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Education - Educational Technology, University of Idaho"
-  location         : "University of Idaho, Moscow Campus"
+  bio              : "Ph.D. in Education — Curriculum and Instruction, University of Idaho"
+  location         : "Moscow, Idaho, USA"
   employer         : "University of Idaho"
   uri              : "https://www.uidaho.edu"
   email            : "ralsaka@uidaho.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/"
-  researchgate     : "https://www.researchgate.net/"
+  googlescholar    : # add your Google Scholar profile URL here
+  researchgate     : # add your ResearchGate profile URL here
 
   # Repositories and software development
   github           : "raghadalsaka"
