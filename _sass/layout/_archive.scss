@@ -24,11 +24,11 @@
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
-  }
 
-  a.btn,
-  a.btn:hover {
-    text-decoration: none;
+    &.btn,
+    &.btn:hover {
+      text-decoration: none;
+    }
   }
 }
 
