@@ -25,6 +25,11 @@
       }
     }
   }
+
+  a.btn,
+  a.btn:hover {
+    text-decoration: none;
+  }
 }
 
 .archive__subtitle {
