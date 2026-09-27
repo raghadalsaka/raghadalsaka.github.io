@@ -15,7 +15,7 @@ These are learning games I created and use in my classes. Each one runs in the b
     <h2 class="archive__item-title"><a href="{{ game.url }}">{{ game.title }}</a></h2>
     <p>{{ game.summary }}</p>
     <p><strong>How to play:</strong> {{ game.how_to_play }}</p>
-    <p><a href="{{ game.url }}" class="btn btn--primary">Play {{ game.title }}</a></p>
+    <p><a href="{{ game.url }}" class="btn btn--primary">Play {{ game.topic | default: game.title }}</a></p>
   </article>
 </div>
 {% endfor %}
